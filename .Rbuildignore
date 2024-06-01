@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^warpak\.Rproj$
+^\.Rproj\.user$
